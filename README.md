@@ -44,5 +44,6 @@ Webサーバに圧縮率等のデータを送り地域，ライブアーティ�
   * サーボモータ
 
 ### 独自技術
+#### 期間中に開発した独自機能・技術
 [maxpatch](https://github.com/jphacks/gomi.zip/blob/master/max/gomi-zip.maxpat)
 
