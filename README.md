@@ -17,23 +17,15 @@
 
 ## 開発技術
 ### 活用した外部技術
-#### API・データ
-* 
-* 
-
 #### フレームワーク・ライブラリ・モジュール
-* 
-* 
+* [Cycling '74 Max7](https://cycling74.com/max7/)
+* [maxuino](https://github.com/maxuino/maxuino)
 
 #### デバイス
-* 
-* 
+* Arduino Pro mini
+  * フォトリフレクタ
+  * サーボモータ
 
 ### 独自技術
 #### 期間中に開発した独自機能・技術
-* 独自で開発したものの内容をこちらに記載してください
-* 特に力を入れた部分をファイルリンク、またはcommit_idを記載してください（任意）
-
-#### 研究内容（任意）
-* もし、製品に研究内容を用いた場合は、研究内容の詳細及び具体的な活用法について、こちらに記載をしてください。
-* 
+* [maxpatch](https://github.com/jphacks/gomi.zip/blob/master/max/gomi-zip.maxpat)
